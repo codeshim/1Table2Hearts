@@ -1,6 +1,6 @@
 # 1Table2Hearts
 
-**기술 스택**  
+##기술 스택 
 - Unity
 - Google Cardboard XR Plugin for Unity
 - Photon2, Voice for Photon2
