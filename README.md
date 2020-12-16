@@ -52,7 +52,7 @@ Photon View Serialize를 통해 서로의 심장이 뛰는 순간들을 전송�
 2020.09.01 - 2020.12.04
 
 
-### 프로젝트 데모   
+### 프로젝트 데모 링크   
 [1Table2Hearts_ver.2](https://youtu.be/bcYr38O3FBk)  
-[2Boat2Hearts]:https://youtu.be/F6lRyNzcZys  
-[1Table2Hearts_ver.1]:https://youtu.be/kgvXnQ1a2ls  
+[2Boat2Hearts](https://youtu.be/F6lRyNzcZys)  
+[1Table2Hearts_ver.1](https://youtu.be/kgvXnQ1a2ls)  
