@@ -22,7 +22,7 @@ Table Code : 김혜심(개발), 김보원(아트) 2인으로 이루어진 팀으
   
 ## 담당 태스크 소개  
 - **Cardboard XR 플러그인 활용과 iOS Build**  
-디벨로퍼 애플 멤버십에 가입하여 iPhoneX에서 VR을 테스트해볼 수 있는 개발환경을 구축했고 Cardboard XR 플러그인을 활용하여 테스트 빌드에 성공했습니다.  
+iPhoneX에서 VR을 테스트해볼 수 있는 개발환경을 구축했고 Cardboard XR 플러그인을 활용하여 VR 테스트 빌드에 성공했습니다.  
 - **기존의 Retical Pointer를 개조하여 만든 GazeButton**  
 모바일 환경을 타겟으로 하고 있기 때문에 별도의 컨트롤러 없이 가상공간 속 요소들과 인터랙션하기 위해 GazeButton을 구현했습니다. GazeButton을 구현하는 과정에서 Google VR SDK의 Retical Pointer 쉐이더와 코드를 일정시간 응시하면 게이지바가 차도록 개조하여 사용했습니다.  
 - **Photon2와 Voice for Photon2를 이용한 네트워크 구현과 음성채팅**  
