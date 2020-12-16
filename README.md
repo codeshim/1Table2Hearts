@@ -29,12 +29,28 @@ iPhoneX에서 VR을 테스트해볼 수 있는 개발환경을 구축했고 Card
 
 - **기존의 Retical Pointer를 개조하여 만든 GazeButton**  
 모바일 환경을 타겟으로 하고 있기 때문에 별도의 컨트롤러 없이 가상공간 속 요소들과 인터랙션하기 위해 GazeButton을 구현했습니다. GazeButton을 구현하는 과정에서 Google VR SDK의 Retical Pointer 쉐이더와 코드를 일정시간 응시하면 게이지바가 차도록 개조하여 사용했습니다.  
+<div>
+<img width="1000" alt="iOSVRBuild" src="https://user-images.githubusercontent.com/76104907/102378479-34d21a80-4009-11eb-8250-a8c1092408ac.png">  
+</div>
+
 - **Photon2와 Voice for Photon2를 이용한 네트워크 구현과 음성채팅**  
 Photon2 Network와 Voice for Photon2 플러그인을 사용하여 두 사용자가 가상공간 속에서 만나서 대화할 수 있는 환경을 만들었습니다. Photon View Serialize를 통해 서로의 심장이 뛰는 순간들을 전송하여 동기화합니다.  
+<div>
+<img width="1000" alt="Photon" src="https://user-images.githubusercontent.com/76104907/102379306-17ea1700-400a-11eb-8d70-8c800611388e.png">
+</div>
+
 - **C# 언어와 Unity Editor로 사용자가 체험하게 되는 전반적인 경험의 연출과 조작 구현**  
 사용자가 구현한 환경 속에 자연스럽게 동화되기 위해 lerp나 Coroutine을 사용한 연출 스크립트를 작성했습니다. 카메라의 시선 가운데에서부터 쏘는 Ray가 트리거가 되어 3D공간 속에서 다른 요소들과 문제없이 인터랙션할 수 있도록 구현했습니다.  
+<div>
+<img width="1000" alt="BoatStateControllerClass" src="https://user-images.githubusercontent.com/76104907/102379241-03a61a00-400a-11eb-9d61-3556ae2288d3.png">
+</div>
+
 - **Arduino Physical Computing을 통한 심박센서 데이터 수집 설계와 납땜**  
 사용자의 실시간 심박수를 수집하기 위해 아두이노와 심박센서를 이용하여 회로를 설계하고 회로의 안정성을 위해 납땜을 했습니다.  
+<div>
+<img width="1000" alt="ArduinoSensor" src="https://user-images.githubusercontent.com/76104907/102379154-effab380-4009-11eb-9d85-ef9d591fa1d0.png">
+</div>
+
 
 
 ## 프로젝트 진행 기간   
