@@ -58,6 +58,6 @@ Photon2 Network와 Voice for Photon2 플러그인을 사용하여 두 사용자�
 
 
 ## 프로젝트 데모 링크   
-[2Boat2Hearts](https://youtu.be/F6lRyNzcZys) 
+[2Boat2Hearts](https://youtu.be/F6lRyNzcZys)  
 [1Table2Hearts_ver.2](https://youtu.be/bcYr38O3FBk)  
 [1Table2Hearts_ver.1](https://youtu.be/kgvXnQ1a2ls)  
